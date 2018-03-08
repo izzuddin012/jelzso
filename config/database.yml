@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: jelzso_development
+  host: localhost
+  port: 3306
+  pool: 5
+  username: bro
+  password: kosong12

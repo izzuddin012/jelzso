@@ -1,2 +1,6 @@
 source 'https://rubygems.org'
 gem 'sinatra'
+gem 'mysql2'
+gem 'rake'
+gem 'sinatra-activerecord'
+gem 'json'
